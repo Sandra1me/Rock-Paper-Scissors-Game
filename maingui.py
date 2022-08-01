@@ -21,7 +21,6 @@ def button_choose(selection):
         resultEntry.insert(0, "The computer wins")
     elif user=='Rock' and computer=='Scissors':
         resultEntry.insert(0, "You win!")
-        userPoints+=1
     
     elif user=='Paper' and computer=='Rock':
         resultEntry.insert(0, "You win!")
