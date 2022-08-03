@@ -8,15 +8,6 @@ This game has a GUI coded with the Tkinter module for it to be more user-friendl
 
 ![image](https://user-images.githubusercontent.com/82436702/179970929-f423c14d-8f78-49a1-91cc-93cce690b35e.png)
 
-## Download Code
-
-You can download the code from this repository.
-
-![image](https://user-images.githubusercontent.com/82436702/179971009-ee6caff7-b30b-4588-bc88-1604f985c487.png)
-
-1. Click on Code
-2. Choose Download Zip
-
 ## Usage
 
 You can run the program from the maingui.py file. After running it, it will show the user interface for the game. There, you choose between rock, paper or scissors; the computer will select randomly.
