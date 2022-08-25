@@ -20,7 +20,7 @@ You can click Reset to delete all the data in the GUI or choose another option t
 
 ## Authors and acknowledgement
 
-*** helped me with the coding.
+Jose Luis Anguiano helped me with the coding.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
